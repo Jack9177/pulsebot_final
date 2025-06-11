@@ -1,1 +1,2 @@
-flask
+FLASK==2.3.2
+python-dotenv
